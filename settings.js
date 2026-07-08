@@ -1,7 +1,7 @@
 module.exports = {
     // --- 1. PENGATURAN UTAMA BOT ---
     tokenUser: '8659534158:AAHy9n_YBDLwyCts9wFHB6ViWTwCPAX7w8Q',
-    tokenAdmin: '8659534158:AAHy9n_YBDLwyCts9wFHB6ViWTwCPAX7w8Q',
+    tokenAdmin: '8766922701:AAEZDNzp7ksysQoWk2cCI86TieJmzoKZiaw',
     ownerId: '1957639198',
 
 
