@@ -13,14 +13,14 @@ module.exports = {
     pakasirApiKey: 'Q8gFjH9TocgWARqc8b7kg1OBlrUDlWj9', // API Key proyek di app.pakasir.com
 
     // --- 5. INFO BOT & LINK ---
-    botUsername: '@',
-    botUrl: 'http://t.me/',
-    linkAdmin: 'https://t.me/',
+    botUsername: '@vgggggg',
+    botUrl: 'http://t.me/hahahah',
+    linkAdmin: 'https://t.me/bssbsb',
 
     // --- 6. GAMBAR/THUMBNAIL MENU ---
     images: {
-        menuUtama: 'https://d.uguu.se/',
-        menuAdmin: 'https://d.uguu.se/',
-        menuDeposit: 'https://d.uguu.se/'
+        menuUtama: 'https://n.uguu.se/pWurqkzs.jpg',
+        menuAdmin: 'https://n.uguu.se/pWurqkzs.jpg',
+        menuDeposit: 'https://n.uguu.se/pWurqkzs.jpg'
     }
 };
