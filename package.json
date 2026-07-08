@@ -1,0 +1,19 @@
+{
+  "name": "zeronokos",
+  "version": "1.0.0",
+  "description": "ZeroNokos — Bot Telegram OTP & Sesi | by NEXUSDEV",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "pm2": "pm2 start index.js --name ZeroNokos"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "country-emoji": "^1.5.2",
+    "fs-extra": "^11.3.4",
+    "moment": "^2.29.4",
+    "node-telegram-bot-api": "^0.61.0",
+    "qrcode": "^1.5.4",
+    "telegram": "^2.22.2"
+  }
+}
